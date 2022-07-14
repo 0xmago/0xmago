@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xmago
 - 👀 I’m interested in web3
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 0xmago on twitter
 
